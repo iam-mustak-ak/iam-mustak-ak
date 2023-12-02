@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.ibb.co/dftKpRj/mustak.gif"  />
+  <img height="150" src="https://i.ibb.co/dftKpRj/mustak.gif" loop=infinite />
 </div>
 
 ###
