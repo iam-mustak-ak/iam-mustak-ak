@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/dftKpRj/mustak.gif" alt="Profile_pic" height="150" loop=infinite>
+  <img src="https://raw.githubusercontent.com/iam-MustakAhmedKhan/iam-MustakAhmedKhan/main/mustak-.gif" alt="Profile_pic" height="150" loop=infinite>
 </div>
 
 ###
